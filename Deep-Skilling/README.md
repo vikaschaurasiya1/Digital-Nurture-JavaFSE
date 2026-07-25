@@ -1,5 +1,5 @@
 # Java FSE Hands-On Solutions
-## Restructured Week-Wise as per the DN4 Schedule
+## Restructured Week-Wise as per the DN5 Schedule
 
 | Week | Topics |
 |------|--------|
