@@ -1,4 +1,4 @@
-# Cognizant Digital Nurture Solutions
+# Cognizant Digital Nurture 5.0 Solutions
 
 This repository contains my solutions, hands-on exercises, and projects completed during the Cognizant Digital Nurture / Deep Skilling Program (Java FSE Track).
 
